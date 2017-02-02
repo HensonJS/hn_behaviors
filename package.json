@@ -1,0 +1,21 @@
+{
+  "name": "hn_behaviors",
+  "version": "0.0.1",
+  "description": "Marionette.js Behaviors",
+  "browserify": {
+    "transform": [
+      "coffeeify",
+      [
+        "jadeify",
+        {
+          "basedir": "node_modules/"
+        }
+      ]
+    ],
+    "extension": [
+      "coffee"
+    ]
+  },
+  "author": "aeksco@gmail.com",
+  "license": "MIT"
+}

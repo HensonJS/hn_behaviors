@@ -1,6 +1,6 @@
 {
   "name": "hn_behaviors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Marionette.js Behaviors",
   "browserify": {
     "transform": [
